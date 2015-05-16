@@ -1,12 +1,3 @@
-<FORM ACTION="" METHOD=POST>
-
-name: <INPUT TYPE=TEXT NAME="Turab"><BR>
-password: <INPUT TYPE=PASSWORD NAME="random123">
-
-<P><INPUT TYPE=SUBMIT VALUE="submit">
-</FORM>
-
-<span style="color: white; background:white;>
 #EXTM3U url-tvg=http://www.xmltvguide.info/iptv/guide.xml.gz m3uautoload=1 cache=0
 #EXTINF:-1,[COLOR white][B]     --|US Channel Pack|--[/B][/COLOR]
 rtmp://cdn.totalplay.tv/stream playpath=z00095.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
